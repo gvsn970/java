@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/dispatcher-servlet.xml=ISO-8859-1
+encoding//WebContent/WEB-INF/view/header/header_welcome.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/product_details.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/products.jsp=UTF-8
