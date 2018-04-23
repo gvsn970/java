@@ -1,0 +1,22 @@
+# java
+
+
+{
+    "products":[
+        {
+        
+            "name": "T-shirt",
+            "color":"Green Color"
+        },
+        {
+        
+            "name": "Trouser",
+            "color":"Red Color"
+        },
+        {
+        
+            "name": "Formal",
+            "color":"Yellow Color"
+        }
+    ]
+}
